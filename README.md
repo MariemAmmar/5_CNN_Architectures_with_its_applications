@@ -54,7 +54,7 @@ ResNet (short for Residual Network) introduced the concept of skip connections t
 ![alt text](https://raw.githubusercontent.com/MariemAmmar/The_most_well-known_CNN_Architectures_with_applying-image-classification/main/ResNet%20Architecture.PNG)
 
 
-
+## Applying  Image Classification 
     
 Each of these architectures has unique features. All these models have achieved high accuracy in our image classifcation task which is a computer vision task.
 These architectures have played a significant role in advancing the field of computer vision and have been used as the basis for many subsequent architectures.
