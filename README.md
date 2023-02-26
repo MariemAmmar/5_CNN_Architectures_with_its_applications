@@ -18,6 +18,9 @@ The LeNet model is primarily used for digit recognition tasks.
 The second code part implements the AlexNet CNN architecture, which won the ImageNet Large Scale Visual Recognition Challenge in 2012.
 It was the first deep CNN architecture that achieved state-of-the-art performance on the ImageNet dataset. 
 It consists of five convolutional layers, three fully connected layers, and two dropout layers.
+![alt text](https://raw.githubusercontent.com/MariemAmmar/The_most_well-known_CNN_Architectures_with_applying-image-classification/main/AlexNet%20Architecture%202.PNG)
+![alt text](https://raw.githubusercontent.com/MariemAmmar/The_most_well-known_CNN_Architectures_with_applying-image-classification/main/AlexNet%20Architecture.PNG)
+
 
 ## VGG16 and VGG19: 
     
