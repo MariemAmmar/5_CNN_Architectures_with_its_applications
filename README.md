@@ -9,8 +9,8 @@ One of the earliest successful CNN architectures developed in the 1990s by Yann 
 It consists of two sets of convolutional and pooling layers followed by three fully connected layers. 
 The LeNet model is primarily used for digit recognition tasks.
 
-![alt text]("https://raw.githubusercontent.com/MariemAmmar/The_most_well-known_CNN_Architectures_with_applying-image-classification/main/LeNet-5%20Architecture.PNG")
-![alt text]("https://raw.githubusercontent.com/MariemAmmar/The_most_well-known_CNN_Architectures_with_applying-image-classification/main/LeNet-5%20Architecture%202.PNG")
+![alt text](https://raw.githubusercontent.com/MariemAmmar/The_most_well-known_CNN_Architectures_with_applying-image-classification/main/LeNet-5%20Architecture.PNG)
+![alt text](https://raw.githubusercontent.com/MariemAmmar/The_most_well-known_CNN_Architectures_with_applying-image-classification/main/LeNet-5%20Architecture%202.PNG)
 
 
 ## AlexNet: 
